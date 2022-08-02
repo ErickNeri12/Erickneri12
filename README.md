@@ -2,5 +2,5 @@
 <p><p>
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickneri12&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNeri12&theme=discord_old_blurple">
 </div>
